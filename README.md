@@ -4,6 +4,7 @@
 
 ## Education
 **University of Illinois at Urbana-Champaign**
+
 *Bachelor of Science in Statistics, Minor in Computer Science*
 
 
