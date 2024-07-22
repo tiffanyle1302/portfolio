@@ -2,6 +2,18 @@
 
 #### Technical Skills: C++, Java, Python, Pandas Python Library, Scikit-Learn, Jupyter Notebook, R, SQL, LaTeX, Tableau
 
+## Projects
+
+[**Palmers Penguins**](https://github.com/tiffanyle1302/PalmersPenguinAnalysis)
+- Implemented a Random Forest Classifier and Decision Tree Classifier, both achieving 99% accuracy, to predict penguin species, demonstrating robust model performance
+- Conducted model evaluation using precision, recall, F1-score, and confusion matrix, ensuring comprehensive performance assessment and validation
+- Documented the end-to-end analytical process, from data cleaning to model evaluation, ensuring reproducibility and clarity in the analysis for future reference
+
+[**Stock Market/Finance Discord Bot (Python)**](https://github.com/tiffanyle1302/StonkBot)
+- Developed and implemented real-time updates on specific stocks for users through integration with Discord API
+- Utilized Polygon Finance API to gather and process crucial stock market information, enhancing data-driven decision-making capabilities
+
+
 ## Education
 **University of Illinois at Urbana-Champaign (GPA: 3.86/4.0)**
 
