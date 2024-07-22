@@ -9,7 +9,7 @@
 - Conducted model evaluation using precision, recall, F1-score, and confusion matrix, ensuring comprehensive performance assessment and validation
 - Documented the end-to-end analytical process, from data cleaning to model evaluation, ensuring reproducibility and clarity in the analysis for future reference
 
-![Random Forest Output1](assets:img/output.png)
+![Random Forest Output1](/assets:img/output.png)
 
 [**Stock Market/Finance Discord Bot (Python)**](https://github.com/tiffanyle1302/StonkBot)
 - Developed and implemented real-time updates on specific stocks for users through integration with Discord API
